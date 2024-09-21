@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://i.postimg.cc/cH3Wkxj8/Be-IN-4-K-logo.jpg",beIN 4K
+https://mejarserver.com/50fps/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN 4K 1-AR
 https://mejarserver.com/spo-1/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN 4K 2-AR

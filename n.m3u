@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://i.postimg.cc/cH3Wkxj8/Be-IN-4-K-logo.jpg",beIN 4K
+#EXTINF:#EXTINF:-1 tvg-name="Premier League 4K" tvg-id="beINSPORT" group-title="beIN4K" tvg-logo="https://i.postimg.cc/bNtC52Gs/Premier-League-Logo-svg.png",Premier League 4K
 https://mejarserver.com/50fps/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN 4K 1-AR
 https://mejarserver.com/spo-1/index.m3u8
@@ -19,14 +19,6 @@ https://mejarserver.com/spo-7/index.m3u8
 https://mejarserver.com/spo-8/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",beIN 4K 9-AR
 https://mejarserver.com/spo-9/index.m3u8
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA 4K 1" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",beIN Sport XTRA 4K 1
-https://mejarserver.com/Tod-Extra-1/index.m3u8
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA 4K 2" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png",beIN Sport XTRA 4K 2
-https://mejarserver.com/Tod-Extra-2/index.m3u8
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA 4K 3" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png",beIN Sport XTRA 4K 3
-https://mejarserver.com/Tod-Extra-3/index.m3u8
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sports News-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",beIN Sports News-AR
-https://mejarserver.com/beIN-News-Mejar/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN HD" tvg-id="beINSPORT" group-title="SPORT720P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN HD 1-AR---***---
 https://mejarserver.com/spo-1-HD/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN HD" tvg-id="beINSPORT" group-title="SPORT720P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN HD 2-AR
@@ -45,12 +37,6 @@ https://mejarserver.com/spo-7-HD/index.m3u8
 https://mejarserver.com/spo-8-HD/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN HD" tvg-id="beINSPORT" group-title="SPORT720P" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",beIN HD 9-AR
 https://mejarserver.com/spo-9-HD/index.m3u8
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA HD 1" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",beIN Sport XTRA HD 1
-https://mejarserver.com/Tod-Extra-1-HD/index.m3u8
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA HD 2" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png",beIN Sport XTRA HD 2
-https://mejarserver.com/Tod-Extra-2-HD/index.m3u8
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA HD 3" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png",beIN Sport XTRA HD 3
-https://mejarserver.com/Tod-Extra-3-HD/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN SD" tvg-id="beINSPORT" group-title="SPORT576P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN SD 1-AR---***---
 https://mejarserver.com/spo-1-SD/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN SD" tvg-id="beINSPORT" group-title="SPORT576P" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN SD 2-AR
@@ -69,9 +55,3 @@ https://mejarserver.com/spo-7-SD/index.m3u8
 https://mejarserver.com/spo-8-SD/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN SD" tvg-id="beINSPORT" group-title="SPORT576P" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",beIN SD 9-AR
 https://mejarserver.com/spo-9-SD/index.m3u8
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA SD 1" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",beIN Sport XTRA SD 1
-https://mejarserver.com/Tod-Extra-1-SD/index.m3u8
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA SD 2" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png",beIN Sport XTRA SD 2
-https://mejarserver.com/Tod-Extra-2-SD/index.m3u8
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sport XTRA SD 3" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png",beIN Sport XTRA SD 3
-https://mejarserver.com/Tod-Extra-3-SD/index.m3u8

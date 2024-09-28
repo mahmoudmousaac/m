@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, تجربة
-https://www.mejarserver.com:8443/pros-3/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=640x360
-https://www.mejarserver.com:8443/pros-3-HD/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=1280x720
-https://www.mejarserver.com:8443/pros-3-SD/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="Premier League 4K" tvg-id="beINSPORT" group-title="beIN4K" tvg-logo="https://www.i.postimg.cc/bNtC52Gs/Premier-League-Logo-svg.png",Premier League 4K
 https://www.mejarserver.com:8443/50fps/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN Sport 4K" tvg-id="beINSPORT" group-title="beIN4K" tvg-logo="https://i.postimg.cc/k5jd6SnG/Be-IN-4-K-logo.png", beIN Sport 4K

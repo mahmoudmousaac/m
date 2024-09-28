@@ -6,7 +6,7 @@ https://www.mejarserver.com:8443/50fps/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://www.assets.bein.com:8443/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN 4K 1-AR
 https://www.mejarserver.com:8443/pros-1/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://www.assets.bein.com:8443/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN 4K 2-AR
-https://www.mejarserver.com:8443/pros-1/index.m3u8
+https://www.mejarserver.com:8443/pros-2/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://www.assets.bein.com:8443/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN 4K 3-AR
 https://www.mejarserver.com:8443/pros-3/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://www.assets.bein.com:8443/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN 4K 4-AR

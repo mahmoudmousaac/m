@@ -2,7 +2,7 @@
 #EXTINF:#EXTINF:-1 tvg-name="Premier League 4K" tvg-id="beINSPORT" group-title="beIN4K" tvg-logo="https://i.postimg.cc/13LYYMDQ/Premier-League-Logo-svg.png",Premier League 4K---
 https://www.mejarserver.com:8443/50fps/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN Sport 4K" tvg-id="beINSPORT" group-title="beIN4K" tvg-logo="https://i.postimg.cc/k5jd6SnG/Be-IN-4-K-logo.png", beIN Sport 4K
-https://www.mejarserver.com:8443/50fps/index.m3u8
+https://www.mejarserver.com:8443/test/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://i.postimg.cc/FKzsDrbq/value-11.png",beIN 4K 1-AR---
 https://www.mejarserver.com:8443/pros-1/index.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN 4K" tvg-id="beINSPORT" group-title="SPORT1080P" tvg-logo="https://i.postimg.cc/tgspFrpG/value-12.png",beIN 4K 2-AR

@@ -90,7 +90,7 @@ https://www.mejarserver.com/pros-6-SD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mejar Server
 #EXTVLCOPT:http-referrer=www.mejarserver.com
 https://www.mejarserver.com/pros-7-SD/index.m3u8
-#EXTINF:-1 group-title="Post Sports" tvg-logo=https://i.postimg.cc/V646dMMG/image.png", Post Sport 1 Full HD
+#EXTINF:-1 group-title="Post Sports" tvg-logo="https://i.postimg.cc/V646dMMG/image.png", Post Sport 1 Full HD
 #EXTVLCOPT:http-user-agent=Mejar Server
 #EXTVLCOPT:http-referrer=www.mejarserver.com
 http://www.mejarserver.com/Ps-1/index.m3u8

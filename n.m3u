@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="beIN 4K" tvg-logo="https://www.i.postimg.cc/bNtC52Gs/Premier-League-Logo-svg.png", Premier League 4K
+#EXTINF:-1 group-title="beIN 4K" tvg-logo="https://i.postimg.cc/JhRB1QtW/Premier-League-Logo-svg.png", Premier League 4K
 #EXTVLCOPT:http-user-agent=Mejar Server
 #EXTVLCOPT:http-referrer=www.mejarserver.com
 https://www.mejarserver.com/50fps/index.m3u8
@@ -34,9 +34,59 @@ https://www.mejarserver.com/pros-6/index.m3u8
 #EXTVLCOPT:http-user-agent=Mejar Server
 #EXTVLCOPT:http-referrer=www.mejarserver.com
 https://www.mejarserver.com/pros-7/index.m3u8
-
-
-
-
-
-
+#EXTINF:-1 group-title="beIN HD" tvg-logo="https://i.postimg.cc/FKzsDrbq/value-11.png", beIN HD 1-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-1-HD/index.m3u8
+#EXTINF:-1 group-title="beIN HD" tvg-logo="https://i.postimg.cc/tgspFrpG/value-12.png", beIN HD 2-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-2-HD/index.m3u8
+#EXTINF:-1 group-title="beIN HD" tvg-logo="https://i.postimg.cc/C1D0QzRv/value-13.png", beIN HD 3-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-3-HD/index.m3u8
+#EXTINF:-1 group-title="beIN HD" tvg-logo="https://i.postimg.cc/ZnxSJ2Fp/value-14.png", beIN HD 4-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-4-HD/index.m3u8
+#EXTINF:-1 group-title="beIN HD" tvg-logo="https://i.postimg.cc/bNqPmYpT/value-15.png", beIN HD 5-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-5-HD/index.m3u8
+#EXTINF:-1 group-title="beIN HD" tvg-logo="https://i.postimg.cc/kg4mdjVR/value-16.png", beIN HD 6-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-6-HD/index.m3u8
+#EXTINF:-1 group-title="beIN HD" tvg-logo="https://i.postimg.cc/KY3h1RDZ/value-17.png", beIN HD 7-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-7-HD/index.m3u8
+#EXTINF:-1 group-title="beIN SD" tvg-logo="https://i.postimg.cc/FKzsDrbq/value-11.png", beIN HD 1-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-1-SD/index.m3u8
+#EXTINF:-1 group-title="beIN SD" tvg-logo="https://i.postimg.cc/tgspFrpG/value-12.png", beIN HD 2-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-2-SD/index.m3u8
+#EXTINF:-1 group-title="beIN SD" tvg-logo="https://i.postimg.cc/C1D0QzRv/value-13.png", beIN HD 3-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-3-SD/index.m3u8
+#EXTINF:-1 group-title="beIN SD" tvg-logo="https://i.postimg.cc/ZnxSJ2Fp/value-14.png", beIN HD 4-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-4-SD/index.m3u8
+#EXTINF:-1 group-title="beIN SD" tvg-logo="https://i.postimg.cc/bNqPmYpT/value-15.png", beIN HD 5-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-5-SD/index.m3u8
+#EXTINF:-1 group-title="beIN SD" tvg-logo="https://i.postimg.cc/kg4mdjVR/value-16.png", beIN HD 6-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-6-SD/index.m3u8
+#EXTINF:-1 group-title="beIN SD" tvg-logo="https://i.postimg.cc/KY3h1RDZ/value-17.png", beIN HD 7-AR
+#EXTVLCOPT:http-user-agent=Mejar Server
+#EXTVLCOPT:http-referrer=www.mejarserver.com
+https://www.mejarserver.com/pros-7-SD/index.m3u8
